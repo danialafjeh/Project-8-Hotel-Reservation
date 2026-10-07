@@ -73,6 +73,7 @@ Responsible for the complete hotel reservation workflow:
 
 * Room Reservation
 * Reservation Validation
+* concurrency-safe booking.
 * Reservation Cancellation
 * Reservation History
 * Reservation Price Calculation
